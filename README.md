@@ -2,7 +2,9 @@
 
 - Hi everyone, i'm Alan, a young developper, who's trying to being a full stack dev.
 
-## Statistics : 
+## 📊 Statistics : 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alandotlbrt&layout=donut)](https://github.com/alandotlbrt/github-readme-stats)
 
 ## 📝 Languages : 
 
@@ -32,6 +34,8 @@
 | Docker            | <img src="https://skillicons.dev/icons?i=docker" alt="VSCode" style="width: 50px;"> |
 | Discord            | <img src="https://skillicons.dev/icons?i=discord" alt="VSCode" style="width: 50px;"> |
 | Figma            | <img src="https://skillicons.dev/icons?i=figma" alt="VSCode" style="width: 50px;"> |
+
+
 
 
 
