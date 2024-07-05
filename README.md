@@ -36,8 +36,18 @@
 | Figma            | <img src="https://skillicons.dev/icons?i=figma" alt="VSCode" style="width: 50px;"> |
 
 
+## 💫 Contact and Social Media
+
+For any questions or collaborations, feel free to reach out:
+
+- **Email:** [alanlebrument@icloud.com](alanlebrument@icloud.com)
 
 
+You can also find me on social media:
 
+- [Twitter](https://x.com/alandotlbrt)
+- [LinkedIn](https://www.linkedin.com/in/alandotlbrt/)
+- [Discord](http://discordapp.com/users/272742732525469706)
 
+I'm open to discussions and available to meet your needs!
 
