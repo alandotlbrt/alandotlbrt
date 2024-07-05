@@ -13,9 +13,10 @@
 | CSS                 | ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) |
 
 ## 💻 IDE : 
+
 | IDE               | Logo                                                                                                                |
 |-------------------|---------------------------------------------------------------------------------------------------------------------|
-| VSCode            | ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)                            |
-| Vim               | ![Vim](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg)                                     |
-| Sublime Text      | ![Sublime Text](https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png)                |
-| JetBrains IntelliJ| ![JetBrains IntelliJ](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg)            |
+| VSCode            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" style="width: 50px;"> |
+| Vim               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" style="width: 50px;">       |
+| Sublime Text      | <img src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" alt="Sublime Text" style="width: 50px;"> |
+| JetBrains IntelliJ| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="JetBrains IntelliJ" style="width: 50px;"> |
