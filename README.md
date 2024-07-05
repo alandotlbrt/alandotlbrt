@@ -45,9 +45,10 @@ For any questions or collaborations, feel free to reach out:
 
 You can also find me on social media:
 
-- [Twitter](https://x.com/alandotlbrt)
-- [LinkedIn](https://www.linkedin.com/in/alandotlbrt/)
-- [Discord](http://discordapp.com/users/272742732525469706)
+- [![Twitter](twitter_logo.png)](https://x.com/alandotlbrt)
+- [![LinkedIn](linkedin_logo.png)](https://www.linkedin.com/in/alandotlbrt/)
+- [![Discord](discord_logo.png)](http://discordapp.com/users/272742732525469706)
+
 
 I'm open to discussions and available to meet your needs!
 
