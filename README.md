@@ -19,7 +19,7 @@
 | IDE               | Logo                                                                                                                |
 |-------------------|---------------------------------------------------------------------------------------------------------------------|
 | VSCode            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" style="width: 50px;"> |
-| Xcode            | <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.apple.com%2Fxcode%2F&psig=AOvVaw3BXBFKsLui-oE37PaqXhyh&ust=1720257705388000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOj38MPJj4cDFQAAAAAdAAAAABAE" alt="xcode" style="width: 50px;"> |
+| Xcode            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode" style="width: 50px;"> |
 | Vim               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" style="width: 50px;">       |
 | Sublime Text      | <img src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" alt="Sublime Text" style="width: 50px;"> |
 | JetBrains IntelliJ| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="JetBrains IntelliJ" style="width: 50px;"> |
