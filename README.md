@@ -17,5 +17,5 @@
 |-------------------|---------------------------------------------------------------------------------------------------------------------|
 | VSCode            | ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)                            |
 | Vim               | ![Vim](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg)                                     |
-| Sublime Text      | ![Sublime Text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg)                     |
+| Sublime Text      | ![Sublime Text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-text-original.svg)                |
 | JetBrains IntelliJ| ![JetBrains IntelliJ](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg)            |
